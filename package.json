@@ -1,0 +1,37 @@
+{
+  "name": "apptrace-react-native",
+  "title": "Apptrace React Native",
+  "version": "1.1.8",
+  "description": "Apptrace React Native Module",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "apptrace-react-native.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apptrace/apptrace-react-native.git",
+    "baseUrl": "https://github.com/apptrace/apptrace-react-native"
+  },
+  "homepage": "https://www.apptrace.cn/",
+  "keywords": [
+    "渠道统计",
+    "免填邀请码",
+    "一键拉起",
+    "广告效果监测",
+    "渠道归因"
+  ],
+  "author": {
+    "name": "Apptrace",
+    "email": "dev@apptrace.cn"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md"
+}
