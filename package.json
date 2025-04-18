@@ -1,7 +1,7 @@
 {
   "name": "apptrace-react-native",
   "title": "Apptrace React Native",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Apptrace React Native Module",
   "main": "index.js",
   "files": [
@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apptrace/apptrace-react-native.git",
-    "baseUrl": "https://github.com/apptrace/apptrace-react-native"
+    "url": "git@github.com/AppsTrace/apptrace-react-native-module.git",
+    "baseUrl": "https://github.com/AppsTrace/apptrace-react-native-module"
   },
   "homepage": "https://www.apptrace.cn/",
   "keywords": [

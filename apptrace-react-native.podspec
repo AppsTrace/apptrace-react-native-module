@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   # s.license    = { :type => "MIT", :file => "LICENSE" }
   s.authors      = { "Apptrace" => "dev@apptrace.cn" }
   s.platforms    = { :ios => "11.0" }
-  s.source       = { :git => "https://github.com/apptrace/apptrace-react-native.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/AppsTrace/apptrace-react-native-module.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,c,m,swift}"
   s.requires_arc = true
