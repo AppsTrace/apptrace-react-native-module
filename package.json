@@ -1,7 +1,7 @@
 {
   "name": "apptrace-react-native",
   "title": "Apptrace React Native",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "Apptrace React Native Module",
   "main": "index.js",
   "files": [

@@ -38,6 +38,8 @@ buildscript {
 }
 
 android {
+    namespace "cn.apptrace.react"
+
     compileSdkVersion safeExtGet('compileSdkVersion', DEFAULT_COMPILE_SDK_VERSION)
     buildToolsVersion safeExtGet('buildToolsVersion', DEFAULT_BUILD_TOOLS_VERSION)
     defaultConfig {
